@@ -1,0 +1,10 @@
+# 私密凭证与运行状态，勿提交
+config.json
+state.json
+bili_cookies.txt
+logs/
+data/
+*.bak_*
+__pycache__/
+*.pyc
+.DS_Store

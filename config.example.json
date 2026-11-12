@@ -1,0 +1,14 @@
+{
+  "mid": 15773384,
+  "up_name": "哔哩哔哩电影",
+  "fav_folder": "于果暑假片单2026",
+  "min_score": 7.8,
+  "pages": 1,
+  "cookie": {
+    "SESSDATA": "在此填入你的 SESSDATA",
+    "bili_jct": "在此填入你的 bili_jct"
+  },
+  "local_accept": 8.0,
+  "local_reject": 7.3,
+  "douban_cookie": "bid=xxx; dbcl2=\"xxx\"; ck=xxx; ap_v=0,6.0"
+}
